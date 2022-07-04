@@ -1,0 +1,12 @@
+#                  empty set
+set1=set()
+print(set1)
+print(type(set1))
+set1=set()
+set1.add(7)
+set1.add(15.55)
+set1.add(0)
+set1.add(True)
+set1.add(1)
+set1.add("hello")
+print(set1)

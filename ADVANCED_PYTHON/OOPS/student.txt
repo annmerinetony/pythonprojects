@@ -1,0 +1,3 @@
+anu,1,cse,54
+ann,44,eee,65
+anmy,15,ece,98

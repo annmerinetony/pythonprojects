@@ -1,0 +1,1 @@
+ Fo r most Unix systems  you must download and compilethe  source code.  The same  source code archive canalso  be  used to  build the  Windows and Mac vers ions and is the starting point for  ports  to all oth er platforms 

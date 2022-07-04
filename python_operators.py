@@ -1,0 +1,16 @@
+a=21
+b=6
+c=a+b
+print(c)
+d=a-b
+print(d)
+e=a*b
+print(e)
+f=a/b
+print(f)
+f=a%b
+print(f)
+g=100**4
+print(g)
+h=a//b
+print(h)
